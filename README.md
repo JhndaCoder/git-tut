@@ -4,7 +4,7 @@
 
 ### 1.1 Resources
 
-- [CodeWithHarry](https://www.youtube.com/watch?v=VW7nnPSUJbQ&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
+- [Video](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 - [Notes]()
   
@@ -13,12 +13,10 @@
 ### 2.1 Fork this Repository (simple Repo)
 
 - Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
-![Alt text](image.png)
 
 ### 2.2 Clone this Repo locally
 
 - Go to your GitHub account and to this forked Repo, click on the `Code` button and then click the Copy to Clipboard Icon.
- ![Alt text](image-1.png)
 
 - Now open Command Line/Terminal.
 - Switch to the Directory where you want to Clone this Repo.
@@ -51,5 +49,5 @@
 
 ### 2.7 Make a Pull Request (PR)
 
-- Go to your forked Repo in Github and click on `Compare & pull request` button.
-- Click `Create pull request` to open a new pull request.
+- Go to your forked Repo in Github and click on `Contribute` button.
+- Click `Open pull request` to open a new pull request.
