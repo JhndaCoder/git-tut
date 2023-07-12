@@ -1,0 +1,8 @@
+- 👋 I am Amit Goyal
+- 😶‍🌫️ I am Web3 mentor at GDSC
+- 🌱 I am currently working on DevOps and Cloud Native
+- 🏃 I love to participate in Hackathons
+- 🤲 I need help with DSA
+- 😁 I am part time student and full time memer
+- 🛌 I am a Full Stack Web3 Developer
+- 💌 Mail me at agoyal3_be21@thapar.edu to contact me.
